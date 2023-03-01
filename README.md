@@ -31,6 +31,16 @@ Govitall ( https://govitall.com/ )
 * Communication with distributed team BA, project managers, developer and designers;
 * Creation and maintenance of test documentation (Test cases, Check lists, Bug reports).
 
+***QA Engineer***
+March 2021 – present time
+Mobilunity ( https://mobilunity.com/ )
+- Providing web applications testing including API testing;
+- Development and support of documentation related to the testing process;
+- Working closely with developers and ensure the quality of development is of highest standard;
+- Communicating significant issues during quality assurance activities and providing recommended 
+improvements to development team using Scrum and Kanban methodologies;
+- Providing daily/weekly reports to managers and team members.
+
 ***Education***
 ****
 1. Kiev National University of Trade and Economics (Kiev)
@@ -47,12 +57,4 @@ QA - TESTING courses (Kiev)
 PROG.KIEV.UA
 https://prog.kiev.ua
 
-***QA Engineer***
-March 2021 – present time
-Mobilunity ( https://mobilunity.com/ )
-- Providing web applications testing including API testing;
-- Development and support of documentation related to the testing process;
-- Working closely with developers and ensure the quality of development is of highest standard;
-- Communicating significant issues during quality assurance activities and providing recommended 
-improvements to development team using Scrum and Kanban methodologies;
-- Providing daily/weekly reports to managers and team members.
+https://Alona-vladyka.github.io/rsschool-cv3/
