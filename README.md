@@ -26,6 +26,20 @@ Govitall ( https://govitall.com/ )
 - Communication with distributed team BA, project managers, developer and designers;
 - Creation and maintenance of test documentation (Test cases, Check lists, Bug reports).
 
+Education
+Kiev National University of Trade and Economics (Kiev)
+End date 2011
+Kiev National Economic University named after Vadim Hetman (Kiev)
+End date 2017
+
+Language skills
+English – intermediate
+Russian/Ukrainian – native
+Courses, Trainings, Certification
+QA - TESTING courses (Kiev)
+PROG.KIEV.UA
+https://prog.kiev.ua
+
 QA Engineer
 March 2021 – present time
 Mobilunity ( https://mobilunity.com/ )
